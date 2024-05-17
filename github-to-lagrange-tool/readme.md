@@ -1,17 +1,25 @@
 Build docker image
 
-docker build . -t github-to-lagrange-tool
 
-docker run -it --rm  github-to-lagrange-tool 
+`docker build . -t github-to-lagrange-tool`
 
-Error: Incorrect number of arguments
+exec : 
+
+`docker run -it --rm  github-to-lagrange-tool `
+
+result :
+
+`Error: Incorrect number of arguments
 [+] Usage: docker run -it --rm github-to-lagrange-tool <wallet> <lagrange-api> <lagrange-space>   <github-url>
 [+] ex: docker run -it --rm github-to-lagrange-tool 0x72b4952E1b1e6D318101314acB4517bA99264e70 xxxx awesome-swanchain https://github.com/swanchain/awesome-swanchain
+`
+
+clone awsesome-swanchain from github to lagrange
+
+`docker run -it --rm github-to-lagrange-tool 0x72b4952E1b1e6D318101314acB4517bA99264e70 xxxxxx awesome-swanchain https://github.com/swanchain/awesome-swanchain`
 
 
-docker run -it --rm github-to-lagrange-tool 0x72b4952E1b1e6D318101314acB4517bA99264e70 xxxxxx awesome-swanchain https://github.com/swanchain/awesome-swanchain
-
-[+] wallet: 0x72b4952E1b1e6D318101314acB4517bA99264e70
+`[+] wallet: 0x72b4952E1b1e6D318101314acB4517bA99264e70
 [+] Lagrange API: xxxxxx
 [+] Lagrange Space: awesome-swanchain
 [+] GitHub URL: https://github.com/swanchain/awesome-swanchain
@@ -31,7 +39,11 @@ Cloning awesome-swanchain into current directory...
 [+] add and commit
 [+] push to lagrange
 Uploading files to space...
+Push to awesome-swanchain complete.
+`
+
 
 done !!!
+url :
 
-https://lagrangedao.org/spaces/0x72b4952E1b1e6D318101314acB4517bA99264e70/awesome-swanchain/files
+`https://lagrangedao.org/spaces/0x72b4952E1b1e6D318101314acB4517bA99264e70/awesome-swanchain/files`
