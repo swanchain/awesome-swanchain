@@ -26,11 +26,16 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [ComfyUI](comfyui)
 
 
+### Game - CPU
+- [Tetris](./Tetris)
+
+
 ### Zero Knowledge Service
 - [Fil-c2-service](fil-c2-service)
 
 
 ### Tools
+ - [github-to-lagrange-tool](github-to-lagrange-tool)
 
 - [Hello World](hello-world)
 - [jupyter](jupyter)
