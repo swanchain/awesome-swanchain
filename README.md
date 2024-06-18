@@ -27,7 +27,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 
 ### Game - CPU
-- [Tetris](#Tetris)
+- [Tetris](./Tetris)
 
 
 ### Zero Knowledge Service
