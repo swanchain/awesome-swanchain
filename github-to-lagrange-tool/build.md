@@ -1,3 +1,4 @@
+```
 [+] Building 1.7s (16/16) FINISHED                                                                                                     docker:default
  => [internal] load .dockerignore                                                                                                                0.0s
  => => transferring context: 2B                                                                                                                  0.0s
@@ -21,3 +22,4 @@
  => => exporting layers                                                                                                                          0.1s
  => => writing image sha256:f1b0d6e8abeecaf0d6a6e5c4644375dc180a4ae06f8257e5c973ab52119936b1                                                     0.0s
  => => naming to docker.io/library/github-to-lagrange-tool                                                                                       0.0s
+```
