@@ -10,10 +10,7 @@ The Game of Life is remarkable because, despite its simple rules, it can produce
 
 Conway’s Game of Life is not only a mathematical amusement but also has wide applications in fields such as computer science, complexity theory, and artificial life. It demonstrates that even the simplest systems can generate unpredictable and complex dynamics.
 ## Deployment Confirmation
-
+- **Wallet Address**: 0x835E98f15640348040C5B9a24E7fd47e872d60D5
 - **Space Link**:[Lagrange Conway’s Game of Life Space](https://lagrangedao.org/spaces/0x835E98f15640348040C5B9a24E7fd47e872d60D5/GameOfLife/app)
-
-
-
 - **Running Page**:
 ![image](https://github.com/harleyLuke/awesome-swanchain/assets/117342269/c7fa5fb1-c015-4365-a26f-9eb4a7c6d81d)
