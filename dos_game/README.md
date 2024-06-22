@@ -5,6 +5,8 @@ DOS-GAME, also known as Disk Operating System games, refers to the computer game
 This mirror has replicated the classic DOS games to the browser, allowing you to experience DOS games on LagrangeDao.
 
 ## Deployment Confirmation
+- **Wallet Address**: 0x835E98f15640348040C5B9a24E7fd47e872d60D5
+
 
 - **Space Link**:[Lagrange Dos-Game Space](https://lagrangedao.org/spaces/0x835E98f15640348040C5B9a24E7fd47e872d60D5/dos_game/app)
 
