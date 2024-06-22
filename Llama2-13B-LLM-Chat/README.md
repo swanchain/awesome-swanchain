@@ -8,5 +8,6 @@ However, the information available online is quite scattered. This article focus
 - **Wallet Address**: 0x835E98f15640348040C5B9a24E7fd47e872d60D5
 - **Space Link**: [Lagrange Llama2-13B-LLM-Chat Space](https://lagrangedao.org/spaces/0x835E98f15640348040C5B9a24E7fd47e872d60D5/Llama2-13B-LLM-Chat/app)
 - **Space Page**:
-- ![image](https://github.com/harleyLuke/awesome-swanchain/assets/117342269/d7b2f33c-84b8-4eb7-b0c1-5cf285931399)
+- ![image](https://github.com/harleyLuke/awesome-swanchain/assets/117342269/76478f06-bc68-4803-9fc8-0437e58090c2)
+
 
