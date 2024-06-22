@@ -13,4 +13,5 @@ Conway’s Game of Life is not only a mathematical amusement but also has wide a
 - **Wallet Address**: 0x835E98f15640348040C5B9a24E7fd47e872d60D5
 - **Space Link**:[Lagrange Conway’s Game of Life Space](https://lagrangedao.org/spaces/0x835E98f15640348040C5B9a24E7fd47e872d60D5/GameOfLife/app)
 - **Running Page**:
-![image](https://github.com/harleyLuke/awesome-swanchain/assets/117342269/c7fa5fb1-c015-4365-a26f-9eb4a7c6d81d)
+![image](https://github.com/harleyLuke/awesome-swanchain/assets/117342269/883c020b-cea9-43ef-ae41-f7e323f96c67)
+
