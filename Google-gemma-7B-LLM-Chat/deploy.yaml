@@ -1,0 +1,13 @@
+version: "2.0"
+
+services:
+  hard:
+    image: harleyluka/realtime-whisper-webgpu:0.11
+    expose:
+      - port: 80
+        as: 8088
+
+deployment:
+  hard:
+    akash:
+      count: 1
