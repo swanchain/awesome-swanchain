@@ -1,0 +1,13 @@
+version: "2.0"
+
+services:
+  hard:
+    image: harleyluka/baichuan2-13b:0.11
+    expose:
+      - port: 7860
+        as: 7860
+
+deployment:
+  hard:
+    akash:
+      count: 1
