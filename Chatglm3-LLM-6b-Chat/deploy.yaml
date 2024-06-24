@@ -9,5 +9,5 @@ services:
 
 deployment:
   hard:
-    akash:
+    lagrange:
       count: 1

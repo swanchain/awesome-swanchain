@@ -24,6 +24,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [MusicGen](musicGen)
 - [Text to Speach](TTS)
 - [ComfyUI](comfyui)
+- [Chatglm3-LLM-6b-Chat](./Chatglm3-LLM-6b-Chat)
 
 
 ### Game - CPU
