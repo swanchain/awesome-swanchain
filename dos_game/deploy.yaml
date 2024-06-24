@@ -9,5 +9,5 @@ services:
 
 deployment:
   dosgame:
-    akash:
+    lagrange:
       count: 1
