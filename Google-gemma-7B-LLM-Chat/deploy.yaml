@@ -2,12 +2,12 @@ version: "2.0"
 
 services:
   hard:
-    image: harleyluka/realtime-whisper-webgpu:0.11
+    image: harleyluka/gemma-7b:0.1
     expose:
-      - port: 80
-        as: 8088
+      - port: 8501
+        as: 8501
 
 deployment:
   hard:
-    akash:
+    lagrange:
       count: 1
