@@ -7,5 +7,5 @@ services:
         as: 8765
 deployment:
   gameoflife:
-    akash:
+    lagrange:
       count: 1

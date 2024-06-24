@@ -29,6 +29,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 ### Game - CPU
 - [Tetris](./Tetris)
 - [Memory](./Memory)
+- [game-of-life](./game-of-life)
 
 ### Zero Knowledge Service
 - [Fil-c2-service](fil-c2-service)
