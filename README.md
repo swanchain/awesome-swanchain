@@ -42,4 +42,4 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [f4 address converter](f4-converter)
 
 ### DeFi
-- [Synthtix](./Synthetix)
+- [Synthetix](./Synthetix)
