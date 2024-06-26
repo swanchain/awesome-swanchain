@@ -1,6 +1,8 @@
 
 # AI-Art
 
+lagrange space link: https://lagrangedao.org/spaces/0xF32c536b0E82c1264b721bfa3ed7867946969a06/ai-art/files
+
 ![AI-Art Screenshot](./Screenshot(234).png)
 
 Art generation using VQGAN + CLIP using docker containers. A simplified,
