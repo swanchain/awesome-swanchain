@@ -1,0 +1,29 @@
+version: "1.0"
+services:
+  gpu-app:
+    image: overshard/ai-art
+    expose:
+      - port: 3000
+        as: 80
+        to:
+          - global: true
+profiles:
+  compute:
+    gpu-app:
+      resources:
+        cpu:
+          units: 1
+        memory:
+          size: 15Gi
+        gpu:
+          units: 1
+          attributes:
+            vendor:
+              nvidia:
+        storage:
+          - size: 30Gi
+deployment:
+  gpu-app:
+    lagrange:
+      profile: gpu-app
+      count: 1
