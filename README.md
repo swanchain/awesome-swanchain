@@ -29,10 +29,14 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 ### Game - CPU
 - [Tetris](./Tetris)
 - [Memory](./Memory)
+- [game-of-life](./game-of-life)
+- [dos_game](./dos_game)
 
 ### Zero Knowledge Service
 - [Fil-c2-service](fil-c2-service)
 
+### Defi
+- [sushiswap](sushiswap)
 
 ### Tools
  - [github-to-lagrange-tool](github-to-lagrange-tool)
