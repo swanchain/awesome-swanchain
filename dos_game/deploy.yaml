@@ -1,0 +1,13 @@
+version: "2.0"
+
+services:
+  dosgame:
+    image: oldiy/dosgame-web-docker:latest
+    expose:
+      - port: 262
+        as: 8765
+
+deployment:
+  dosgame:
+    lagrange:
+      count: 1

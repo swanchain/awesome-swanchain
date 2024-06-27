@@ -1,0 +1,27 @@
+version: "2.0"
+
+services:
+  yearn:
+    image: halw001/yearn:0.1
+    expose:
+      - port: 80
+        as: 80
+        to:
+          - global: true
+
+profiles:
+  compute:
+    yearn:
+      resources:
+        cpu:
+          units: 1.0
+        memory:
+          size: 512Mi
+        storage:
+          size: 512Mi
+
+deployment:
+  yearn:
+    lagrange:
+      profile: yearn
+      count: 1
