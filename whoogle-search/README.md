@@ -1,5 +1,9 @@
 # Whoogle Search
 
+https://lagrangedao.org/spaces/0x057ab4a30442b4FE505e64C088a6923540Cdd0Bf/whoogle-search/app
+![img.png](img.png)
+![img_1.png](img_1.png)
+
 Whoogle Search is a self-hosted, ad-free/AMP-free/tracking-free, privacy respecting alternative to Google Search. It works by sitting between the user and Google, and filtering whatever Google returns back, to remove things like ads/sponsored content, cookies, JavaScript, tags on urls related to ad campaigns and site referrals, etc. Since all queries are forwarded through the Akash provider, the query made to Google only contains the IP address and information of the provider rather than the user's. And because it's easy to redeploy to a different provider on Akash, users can rotate providers once in a while to further obfuscate. To learn more about the project, see the original project page on [Github](https://github.com/benbusby/whoogle-search) and this [reddit post](https://www.reddit.com/r/selfhosted/comments/ggronz/whoogle_search_a_selfhosted/) from the author.
 
 ![Whoogle](whoogle.png)
