@@ -22,9 +22,11 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [MusicGen](musicGen)
 - [Text to Speach](TTS)
 - [ComfyUI](comfyui)
+- [realtime-whisper-webgpu](./realtime-whisper-webgpu)
 - [Baichuan2-13b-LLM-Chat](./Baichuan2-13b-LLM-Chat)
 - [Chatglm3-LLM-6b-Chat](./Chatglm3-LLM-6b-Chat)
 - [Qwen2-LLM-7b](./Qwen2-LLM-7b)
+
 
 ### Game - CPU
 - [Tetris](./Tetris)
@@ -44,6 +46,9 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [jupyter](jupyter)
 - [f4 address converter](f4-converter)
 - [Jira](./Jira)
+- [code-server](code-server)
+- [Uma Protocol](uma-protocol)
+
 
 ### DeFi
 - [Synthetix](./Synthetix)
@@ -51,7 +56,4 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 ### Blogging
 - [Wiki.js](./Wiki)
-
-
-
 
