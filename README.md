@@ -49,3 +49,6 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Synthetix](./Synthetix)
 -[Yearn](./Yearn)
 
+### Project Management
+
+- [Redmine](redmine)
