@@ -44,4 +44,5 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [jupyter](jupyter)
 - [f4 address converter](f4-converter)
 
-
+### Web Frameworks
+- [NextJS](nextjs)
