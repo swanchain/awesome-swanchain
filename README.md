@@ -39,11 +39,13 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [sushiswap](sushiswap)
 
 ### Tools
- - [github-to-lagrange-tool](github-to-lagrange-tool)
+- [github-to-lagrange-tool](github-to-lagrange-tool)
 
 - [Hello World](hello-world)
 - [jupyter](jupyter)
 - [f4 address converter](f4-converter)
 
 ### DeFi
+- [Synthetix](./Synthetix)
 -[Yearn](./Yearn)
+
