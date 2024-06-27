@@ -43,5 +43,6 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Hello World](hello-world)
 - [jupyter](jupyter)
 - [f4 address converter](f4-converter)
+- [adminer](adminer)
 
 
