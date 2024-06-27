@@ -1,0 +1,36 @@
+version: "2.0"
+
+services:
+  wiki:
+    image: requarks/wiki:2
+    env:
+      - DB_TYPE=sqlite
+      - DB_FILEPATH=/wiki/app.db
+    expose:
+      - port: 3000
+        as: 80
+        to:
+          - global: true
+
+profiles:
+  compute:
+    wiki:
+      resources:
+        cpu:
+          units: 1.0
+        memory:
+          size: 512Mi
+        storage:
+          size: 1Gi
+  placement:
+    lagrange:
+      pricing:
+        wiki: 
+          denom: uakt
+          amount: 10000
+
+deployment:
+  wiki:
+    lagrange:
+      profile: wiki
+      count: 1
