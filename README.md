@@ -31,7 +31,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Memory](./Memory)
 - [game-of-life](./game-of-life)
 - [dos_game](./dos_game)
-
+- [Snake Game](snake-game)
 
 ### Zero Knowledge Service
 - [Fil-c2-service](fil-c2-service)
