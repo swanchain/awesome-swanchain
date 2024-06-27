@@ -8,7 +8,6 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 
 ## Table of Contents <!-- omit in toc -->
-
 - [AI - CPU](#ai---cpu)
 - [AI - GPU](#ai---gpu)
 - [Zero Knowledge Service](#Zero-Knowledge)
@@ -41,7 +40,6 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 ### Tools
 - [github-to-lagrange-tool](github-to-lagrange-tool)
-
 - [Hello World](hello-world)
 - [jupyter](jupyter)
 - [f4 address converter](f4-converter)
