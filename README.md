@@ -8,7 +8,6 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 
 ## Table of Contents <!-- omit in toc -->
-
 - [AI - CPU](#ai---cpu)
 - [AI - GPU](#ai---gpu)
 - [Zero Knowledge Service](#Zero-Knowledge)
@@ -19,11 +18,11 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 
 ### AI - GPU
-
 - [Stable Diffusion Webui](stable-diffusion-webui)
 - [MusicGen](musicGen)
 - [Text to Speach](TTS)
 - [ComfyUI](comfyui)
+- [Chatglm3-LLM-6b-Chat](./Chatglm3-LLM-6b-Chat)
 - [Qwen2-LLM-7b](./Qwen2-LLM-7b)
 
 
@@ -41,7 +40,6 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 ### Tools
 - [github-to-lagrange-tool](github-to-lagrange-tool)
-
 - [Hello World](hello-world)
 - [jupyter](jupyter)
 - [f4 address converter](f4-converter)
