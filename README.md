@@ -45,3 +45,9 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [f4 address converter](f4-converter)
 
 
+### DeFi
+
+Awesome DeFi apps you can deploy on Akash
+
+- [Yearn.finance](Yearn.finance)
+
