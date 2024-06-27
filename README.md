@@ -45,8 +45,10 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Hello World](hello-world)
 - [jupyter](jupyter)
 - [f4 address converter](f4-converter)
+- [Jira](./Jira)
 - [code-server](code-server)
 - [Uma Protocol](uma-protocol)
+
 
 ### DeFi
 - [Synthetix](./Synthetix)
@@ -54,5 +56,4 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 ### Blogging
 - [Wiki.js](./Wiki)
-
 
