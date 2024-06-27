@@ -53,3 +53,9 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 ### Blogging
 - [Wiki.js](./Wiki)
 
+### DeFi
+
+Awesome DeFi apps you can deploy on Akash
+
+- [Yearn.finance](Yearn.finance)
+
