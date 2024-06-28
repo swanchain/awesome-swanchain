@@ -1,0 +1,11 @@
+version: "2.0"
+services:
+  text:
+    image: ashleykza/oobabooga:1.22.0
+    expose:
+      - port: 3000
+        as: 3000
+deployment:
+  text:
+    lagrange:
+      count: 1

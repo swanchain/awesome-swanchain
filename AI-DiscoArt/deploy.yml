@@ -1,0 +1,11 @@
+version: "2.0"
+services:
+  discoart:
+    image: runpod/discoart:web
+    expose:
+      - port: 3000
+        as: 3000
+deployment:
+  discoart:
+    lagrange:
+      count: 1
