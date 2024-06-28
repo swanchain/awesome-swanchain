@@ -47,3 +47,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 ### Hosting
 - [Flame](flame)
+
+### Benchmarking
+
+- [Fast.com by Netflix](fast)
