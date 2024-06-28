@@ -58,9 +58,10 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 ### DeFi
 - [Synthetix](./Synthetix)
--[Yearn](./Yearn)
-
+- [Yearn](./Yearn)
+- [Curve](./Curve)
 
 ### Blogging
 - [Wiki.js](./Wiki)
+
 
