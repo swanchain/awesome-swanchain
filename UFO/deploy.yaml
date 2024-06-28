@@ -1,0 +1,17 @@
+---
+version: "2.0"
+
+services:
+  ufoweb:
+    image: wlouie1/ufo-data-vis:latest
+    expose:
+      - port: 80
+        as: 80
+        to:
+          - global: true
+
+deployment:
+  ufoweb:
+    akash:
+      profile: ufoweb
+      count: 1
