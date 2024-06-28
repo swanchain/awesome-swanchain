@@ -1,0 +1,13 @@
+version: "2.0"
+
+services:
+  hard:
+    image: harleyluka/qianwen-7b:0.21
+    expose:
+      - port: 7860
+        as: 7860
+
+deployment:
+  hard:
+    lagrange:
+      count: 1
