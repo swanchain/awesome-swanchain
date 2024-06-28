@@ -56,6 +56,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 ### DeFi
 - [sushiswap](sushiswap)
+- [LuaSwap](./LuaSwap)
 - [Osmosis](./Osmosis)
 - [Synthetix](./Synthetix)
 - [Yearn](./Yearn)
