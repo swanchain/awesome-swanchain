@@ -1,0 +1,34 @@
+version: "2.0"
+
+services:
+  whoogle:
+    image: benbusby/whoogle-search:latest
+    expose:
+      - port: 5000
+        as: 80
+        to:
+          - global: true
+
+profiles:
+  compute:
+    whoogle:
+      resources:
+        cpu:
+          units: 1.0
+        memory:
+          size: 1Gi
+        storage:
+          size: 1Gi
+
+placement:
+  lagrange:
+    pricing:
+      whoogle:
+        denom: uakt
+        amount: 10000
+
+deployment:
+  whoogle:
+    lagrange:
+      profile: whoogle
+      count: 1
