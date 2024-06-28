@@ -12,6 +12,6 @@ services:
 
 deployment:
   ufoweb:
-    akash:
+    lagrange:
       profile: ufoweb
       count: 1
