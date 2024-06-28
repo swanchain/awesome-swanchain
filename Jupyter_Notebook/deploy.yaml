@@ -1,0 +1,19 @@
+---
+version: "2.0"
+
+services:
+  # make sure to NOT name the service as "jupyter" to avoid conflicting K8s variable name "<SERVICE>_<KEY>" with the app's variable name (JUPYTER_PORT)
+  jupyter-app:
+    # There are many other Jupyter images you can choose from here: https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html
+    image: jupyter/tensorflow-notebook
+    expose:
+      - port: 8888
+        as: 80
+        to:
+          - global: true
+
+deployment:
+  jupyter-app:
+    lagrange:
+      profile: jupyter-app
+      count: 1
