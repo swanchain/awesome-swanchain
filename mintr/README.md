@@ -1,5 +1,10 @@
 # Mintr v2
 
+lagrange space url:https://lagrangedao.org/spaces/0xc5Ea406342ed23890B5f6Ab67642275018F917BA/mintr/app
+
+<img width="1507" alt="image" src="https://github.com/Mario-y/awesome-swanchain/assets/39185425/0309f88e-33b5-4e4a-a97d-1f181f5edb16">
+
+
 From [synthetix-mintr](https://github.com/Synthetixio/synthetix-mintr):
 
 The dApp communicates with the Synthetix contracts, allowing users to perform the following actions:
