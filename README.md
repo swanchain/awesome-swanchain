@@ -8,7 +8,6 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 
 ## Table of Contents <!-- omit in toc -->
-
 - [AI - CPU](#ai---cpu)
 - [AI - GPU](#ai---gpu)
 - [Zero Knowledge Service](#Zero-Knowledge)
@@ -19,11 +18,14 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 
 ### AI - GPU
-
 - [Stable Diffusion Webui](stable-diffusion-webui)
 - [MusicGen](musicGen)
 - [Text to Speach](TTS)
 - [ComfyUI](comfyui)
+- [realtime-whisper-webgpu](./realtime-whisper-webgpu)
+- [Baichuan2-13b-LLM-Chat](./Baichuan2-13b-LLM-Chat)
+- [Chatglm3-LLM-6b-Chat](./Chatglm3-LLM-6b-Chat)
+- [Qwen2-LLM-7b](./Qwen2-LLM-7b)
 
 
 ### Game - CPU
@@ -40,13 +42,19 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 ### Tools
 - [github-to-lagrange-tool](github-to-lagrange-tool)
-
 - [Hello World](hello-world)
 - [jupyter](jupyter)
 - [f4 address converter](f4-converter)
+- [Jira](./Jira)
+- [code-server](code-server)
+- [Uma Protocol](uma-protocol)
 - [DEGO_Stats](./DEGO)
+
 
 ### DeFi
 - [Synthetix](./Synthetix)
 -[Yearn](./Yearn)
+
+### Blogging
+- [Wiki.js](./Wiki)
 
