@@ -1,0 +1,11 @@
+version: "2.0"
+services:
+  gameoflife:
+    image: antoinejaussoin/game-of-life:3.3.0
+    expose:
+      - port: 80
+        as: 8765
+deployment:
+  gameoflife:
+    lagrange:
+      count: 1
