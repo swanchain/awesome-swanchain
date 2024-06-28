@@ -1,0 +1,21 @@
+version: '2.0'
+services:
+  codeserver:
+    image: ghcr.io/linuxserver/code-server
+    env:
+      - PUID=1000
+      - PGID=1000
+      - PASSWORD=password 
+      - SUDO_PASSWORD=password
+
+    expose:
+      - port: 8443
+        as: 80
+        to:
+          - global: true
+deployment:
+  codeserver:
+    akash:
+      profile: codeserver
+      count: 1
+
