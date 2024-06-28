@@ -22,6 +22,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [MusicGen](musicGen)
 - [Text to Speach](TTS)
 - [ComfyUI](comfyui)
+- [Llama3-8B-LLM-Chat](./Llama3-8B-LLM-Chat)
 - [Google-gemma-7B-LLM-Chat](./Google-gemma-7B-LLM-Chat)
 - [Llama2-13B-LLM-Chat](./Llama2-13B-LLM-Chat)
 - [realtime-whisper-webgpu](./realtime-whisper-webgpu)
