@@ -60,7 +60,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 - [Doccano](doccano)
 
-
-
+### Games
+- [Minesweeper](minesweeper)
 
 
