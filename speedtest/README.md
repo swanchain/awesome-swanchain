@@ -49,4 +49,5 @@ For manual installations, please follow the instructions [here](https://github.c
 There is a 3rd party helm chart available [here](https://github.com/sOblivionsCall/charts).
 
 ### Output:
+Lagrange Link: (speedtest)[https://lagrangedao.org/spaces/0x25f2bDa58DDdf3F9c0B7714849e8cF2362FcC6fa/speedtest/app]
 ![image](https://github.com/Jaron-coder/awesome-swanchain/assets/4795771/a4b17227-c765-4263-a784-fcd35583fb97)
