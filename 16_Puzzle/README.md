@@ -2,6 +2,13 @@
 
 This is a simple and attractive number puzzle game implemented using HTML, CSS, JavaScript, and Bootstrap. The game is inspired by the classic 8-puzzle game, where the objective is to arrange numbered tiles in sequential order by sliding them into an empty space.
 
+## Demo show
+
+[16_Puzzle](https://lagrangedao.org/spaces/0x38A146DbB152e3EcC3c2f23DF1080015B0Fb0793/16_Puzzle/app)
+
+<img width="1325" alt="image" src="https://github.com/ywhoami/awesome-swanchain/assets/173780660/9af91c0f-996d-4f31-98c7-874b59aad9b0">
+
+
 ## Features
 
 - Interactive 4x4 grid puzzle (16-puzzle).
