@@ -31,6 +31,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Memory](./Memory)
 - [game-of-life](./game-of-life)
 - [dos_game](./dos_game)
+- [16_Puzzle](16_Puzzle)
 
 
 ### Zero Knowledge Service
