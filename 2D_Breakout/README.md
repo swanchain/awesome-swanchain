@@ -8,6 +8,11 @@
 In the 2D Breakout game, you need to break all the bricks using a bouncing ball, a ball that you need to prevent from leaving the game area using the paddle.
 - 
 
+## Demo Show
+[Demo](https://lagrangedao.org/spaces/0x38A146DbB152e3EcC3c2f23DF1080015B0Fb0793/2D_Breakout/app)
+<img width="1325" alt="image" src="https://github.com/ywhoami/awesome-swanchain/assets/173780660/8172e99f-dc28-43ba-b734-9da69bf99eb5">
+
+
 ## **functionalities 🎮**
 <!-- add functionalities over here -->
 When the ball hit the paddle, the ball should go in a definite direction based on where the ball hit the paddle so the paddle won't act like a wall. which means you can determine where the ball goes when you hit it with the paddle.
