@@ -2,6 +2,9 @@
 
 lagrange space url: https://lagrangedao.org/spaces/0x36EF80E7c9df43DbaeA9892b932689C17c1e8cE0/lunie-light/app
 
+![image](https://github.com/ElioLam/awesome-swanchain/assets/69795569/0efe3a8e-533e-4398-b565-71f3bda98e96)
+
+
 From [the project site](https://github.com/luniehq/lunie-light):
 
 Lunie Light is a staking interface for proof-of-stake blockchains in the Cosmos ecosystem — built for speed, simplicity, and ease-of-use.
