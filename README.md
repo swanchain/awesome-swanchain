@@ -68,3 +68,8 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Wiki.js](./Wiki)
 
 
+### Databases and Administration
+
+- [json-server](json-server)
+
+
