@@ -53,6 +53,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 ### DeFi
 - [Synthetix](./Synthetix)
 -[Yearn](./Yearn)
+- [dFed](dfed)
 
 ### Blogging
 - [Wiki.js](./Wiki)
