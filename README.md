@@ -30,6 +30,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Chatglm3-LLM-6b-Chat](./Chatglm3-LLM-6b-Chat)
 - [Qwen2-LLM-7b](./Qwen2-LLM-7b)
 - [AI-Dalle-4k](AI-Dalle-4k)
+- [JibMixRealisticXLV10Lightning](https://lagrangedao.org/spaces/0x78A170BE72F00F8a49538bc9895377984a8579f3/MaV_JibMixRealisticXLV10Lightning/card)
 
 
 ### Game - CPU
@@ -38,6 +39,10 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [2048](./2048-game)
 - [game-of-life](./game-of-life)
 - [dos_game](./dos_game)
+
+### Game - GPU
+- [Simple_html_Tap2Earn](https://lagrangedao.org/spaces/0x78A170BE72F00F8a49538bc9895377984a8579f3/MaV_Tap2Earn/card)
+- [Simple_html_guessgame](https://lagrangedao.org/spaces/0x78A170BE72F00F8a49538bc9895377984a8579f3/MaV-ZKSuperGame/card)
 
 
 ### Zero Knowledge Service
