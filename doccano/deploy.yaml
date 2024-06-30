@@ -1,0 +1,19 @@
+version: "2.0"
+
+services:
+  doccano:
+    image: doccano/doccano
+    expose:
+      - port: 8000
+        as : 8000
+        to:
+          - global: true
+      - port: 8080
+        as: 80
+        to:
+          - global: true
+deployment:
+  doccano:
+    lagrange:
+      profile: doccano
+      count: 1
