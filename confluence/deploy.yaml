@@ -1,0 +1,16 @@
+version: "2.0"
+
+services:
+  confluence:
+    image: atlassian/confluence-server:latest
+    expose:
+      - port: 8090
+        as: 80
+        to:
+          - global: true
+
+deployment:
+  confluence:
+    lagrange:
+      profile: confluence
+      count: 1
