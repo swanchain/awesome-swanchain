@@ -1,0 +1,15 @@
+version: "2.0"
+
+services:
+  drupal:
+    image: drupal
+    expose:
+      - port: 80
+        to:
+          - global: true
+
+deployment:
+  drupal:
+    lagrange:
+      profile: drupal
+      count: 1
