@@ -22,38 +22,49 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [MusicGen](musicGen)
 - [Text to Speach](TTS)
 - [ComfyUI](comfyui)
+- [Llama3-8B-LLM-Chat](./Llama3-8B-LLM-Chat)
+- [Google-gemma-7B-LLM-Chat](./Google-gemma-7B-LLM-Chat)
+- [Llama2-13B-LLM-Chat](./Llama2-13B-LLM-Chat)
 - [realtime-whisper-webgpu](./realtime-whisper-webgpu)
 - [Baichuan2-13b-LLM-Chat](./Baichuan2-13b-LLM-Chat)
 - [Chatglm3-LLM-6b-Chat](./Chatglm3-LLM-6b-Chat)
 - [Qwen2-LLM-7b](./Qwen2-LLM-7b)
+- [AI-Dalle-4k](AI-Dalle-4k)
 
 
 ### Game - CPU
 - [Tetris](./Tetris)
 - [Memory](./Memory)
+- [2048](./2048-game)
 - [game-of-life](./game-of-life)
 - [dos_game](./dos_game)
 
+
 ### Zero Knowledge Service
 - [Fil-c2-service](fil-c2-service)
-
-### Defi
-- [sushiswap](sushiswap)
 
 ### Tools
 - [github-to-lagrange-tool](github-to-lagrange-tool)
 - [Hello World](hello-world)
 - [jupyter](jupyter)
 - [f4 address converter](f4-converter)
+- [Whoogle Search](whoogle-search)
 - [Jira](./Jira)
 - [code-server](code-server)
 - [Uma Protocol](uma-protocol)
+- [DEGO_Stats](./DEGO)
 
 
 ### DeFi
+- [sushiswap](sushiswap)
+- [uniswap](uniswap)
+- [LuaSwap](./LuaSwap)
+- [Osmosis](./Osmosis)
 - [Synthetix](./Synthetix)
--[Yearn](./Yearn)
+- [Yearn](./Yearn)
+- [Curve](./Curve)
 
 ### Blogging
 - [Wiki.js](./Wiki)
+
 
