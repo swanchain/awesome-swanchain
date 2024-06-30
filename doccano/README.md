@@ -7,4 +7,6 @@ Once deployed, Doccano can be accessed at `http:<HOSTED URI>:<REDIRECTED_PORT>`.
 For more information about management of user, please visit the official documentation at <https://doccano.github.io/doccano/>.
 
 ## Space
-https://lagrangedao.org/spaces/0x86729552B186984c42D8eA5f880889294e029206/doccano/app
+https://lagrangedao.org/spaces/0x86729552B186984c42D8eA5f880889294e029206/doccane/app
+
+![image](https://github.com/Keanu-sudo/awesome-swanchain/assets/172480661/8363dc80-9f1b-49ab-ae67-e5d2fa635853)
