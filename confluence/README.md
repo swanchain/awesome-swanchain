@@ -13,4 +13,5 @@ The `deploy.yaml` uses the official Docker image to deploy a basic configuration
 
 # Space
 https://lagrangedao.org/spaces/0x86729552B186984c42D8eA5f880889294e029206/Conference/app
-<img width="1211" alt="image" src="https://github.com/Keanu-sudo/awesome-swanchain/assets/172480661/3dcc92c6-2bab-454a-8302-2c28f3a70394">
+![Space running](https://github.com/Keanu-sudo/awesome-swanchain/assets/172480661/241a774f-f2b7-453f-a3d0-1b7e8748225f)
+
