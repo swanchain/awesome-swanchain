@@ -1,0 +1,17 @@
+---
+version: "2.0"
+
+services:
+  openspeedtest:
+    image: openspeedtest/latest
+    expose:
+      - port: 3000
+        as: 80
+        to:
+          - global: true
+
+deployment:
+  openspeedtest:
+    lagrange:
+      profile: openspeedtest
+      count: 1
