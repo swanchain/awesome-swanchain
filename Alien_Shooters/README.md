@@ -7,6 +7,12 @@
 ## **Description 📃** 
 - A retro styled game testing your reflexes and precision on the keyboard. Your main aim is to shoot as many aliens as you can using the shooter given to you.
 
+## Demo Show
+[Demo](https://lagrangedao.org/spaces/0x38A146DbB152e3EcC3c2f23DF1080015B0Fb0793/Alien_Shooters/app)
+
+<img width="1424" alt="image" src="https://github.com/ywhoami/awesome-swanchain/assets/173780660/9da3e8f6-d6e4-4742-b20d-0028e231eb46">
+
+
 
 ## **functionalities 🎮** 
 - Easy to play
