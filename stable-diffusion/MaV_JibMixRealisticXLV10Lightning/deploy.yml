@@ -1,0 +1,13 @@
+version: "2.0"
+
+services:
+  realistic:
+    image: mavhub/stablediffusion:1718941574
+    expose:
+      - port: 9999
+        as: 9992
+
+deployment:
+  realistic:
+    akash:
+      count: 1
