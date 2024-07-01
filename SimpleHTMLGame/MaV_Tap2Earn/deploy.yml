@@ -1,0 +1,13 @@
+version: "2.0"
+
+services:
+  mavtap2earn:
+    image: mavhub/swanlagrange:latest
+    expose:
+      - port: 8000
+        as: 80
+
+deployment:
+  mavtap2earn:
+    akash:
+      count: 1
