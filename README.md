@@ -1,5 +1,10 @@
 # Awesome Swanchain <!-- omit in toc -->
 
+lagrange space url: https://lagrangedao.org/spaces/0xF32c536b0E82c1264b721bfa3ed7867946969a06/nextjs/app
+
+![image](https://github.com/johnchenyan/awesome-swanchain/assets/31872903/ae42217e-c96f-46b0-bb0d-5c3942f086ee)
+
+
 Awesome Swanchain is a curated list of awesome resources people can use to familiarize themselves with [swanchain](//https://swanchain.io) and includes examples of several applications they can deploy on the platform. Please submit a pull request if you know any resources that might be helpful to other developers.
 
 Instructions on how to deploy the Application([LDL](https://docs.lagrangedao.org/spaces/intro/lagrange-definition-language-ldl) or dockerfile) in this repository can be found [here](//https://docs.lagrangedao.org/spaces/run-space).
@@ -67,4 +72,5 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 ### Blogging
 - [Wiki.js](./Wiki)
 
-
+### Web Frameworks
+- [NextJS](nextjs)
