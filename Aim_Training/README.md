@@ -16,6 +16,13 @@ Aim Training
 
 - Overall, the game aims to test the player's agility, reflexes, and hand-eye coordination.
 
+## Demo Show
+
+[Demo](https://lagrangedao.org/spaces/0x38A146DbB152e3EcC3c2f23DF1080015B0Fb0793/Aim_Training/app)
+
+<img width="1424" alt="image" src="https://github.com/ywhoami/awesome-swanchain/assets/173780660/cb228ec3-0f92-43c9-9745-0d5fb61f454b">
+
+
 ## **functionalities 🎮**
 <!-- add functionalities over here -->
 - Colorful bubbles appear randomly on the screen at regular intervals.
