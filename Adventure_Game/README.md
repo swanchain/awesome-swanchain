@@ -8,6 +8,12 @@
 <!-- add your game description here  -->
 - A no-JS adventure game created using only CSS. The game is a simple text adventure, where the player can move around a grid of squares and interact with objects. The game is controlled using the keyboard, and the player can move up, down, left, and right. The player can also interact with objects by clicking on them.
 
+## Demo Show
+[Demo](https://lagrangedao.org/spaces/0x38A146DbB152e3EcC3c2f23DF1080015B0Fb0793/Adventure_Game/app)
+
+<img width="1424" alt="image" src="https://github.com/ywhoami/awesome-swanchain/assets/173780660/1eb2a68c-87e9-4bef-a06e-083cb578e21e">
+
+
 ## **functionalities 🎮**
 <!-- add functionalities over here -->
 - **Grid of squares**: The game is made up of a grid of squares, and the player can move around the grid using the keyboard.
