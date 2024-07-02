@@ -1,0 +1,35 @@
+version: "2.0"
+
+services:
+  aleo-node:
+    image: aleo/aleo-node:latest
+    expose:
+      - port: 4133
+        as: 4133
+        to:
+          - global: true
+
+profiles:
+  compute:
+    aleo-node:
+      resources:
+        cpu:
+          units: 2.0
+        memory:
+          size: 2Gi
+        storage:
+          size: 2Gi
+  placement:
+    lagrange:
+      attributes:
+        host: lagrange
+      pricing:
+        aleo-node:
+          denom: uakt
+          amount: 100000
+
+deployment:
+  aleo-node:
+    lagrange:
+      profile: aleo-node
+      count: 1
