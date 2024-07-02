@@ -1,6 +1,6 @@
 # aleo_testnet_miner_beta_f2pool
 
-SET ACCOUNTNAME=your f2pool username 
+SET ACCOUNTNAME=your f2pool username  in deploy.yaml
 register in https://www.f2pool.com/
 aleo pool
 
