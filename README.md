@@ -71,6 +71,8 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Yearn](./Yearn)
 - [Curve](./Curve)
 - [Ren Protocol](renprotocol)
+- [yfii](yfii)
+- [Yearn.finance](Yearn.finance)
 
 ### Blogging
 - [Wiki.js](./Wiki)
@@ -78,5 +80,4 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 ### Web Frameworks
 - [NextJS](nextjs)
 
-### DeFi
-- [yfii](yfii)
+
