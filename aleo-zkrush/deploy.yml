@@ -1,11 +1,10 @@
 version: "2.0"
 services:
   aleo:
-    image: sxk1633/aleo-beta-miner-zkrush-cpu:latest
+    image: sxk1633/aleo-beta-miner-zkrush-cpu-multi:latest
     env:
       - POOL_URL=wss://aleo.zkrush.com:3333
       - ACCOUNTNAME=xxxx-xxxx
-      - WORKNAME=xxxx-xxxx
     expose:
       - port: 5000
         as: 5000
