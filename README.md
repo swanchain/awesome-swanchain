@@ -36,10 +36,9 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 ### Zero Knowledge Service
 - [Fil-c2-service](fil-c2-service)
-- [aleo-zklion](aleo-zklion)
+- Aleo
+    - [aleo-zklion](aleo-zklion)
 
-### Defi
-- [sushiswap](sushiswap)
 
 ### Tools
 - [github-to-lagrange-tool](github-to-lagrange-tool)
