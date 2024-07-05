@@ -38,15 +38,11 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 
 ### Tools
- - [github-to-lagrange-tool](github-to-lagrange-tool)
-
+- [github-to-lagrange-tool](github-to-lagrange-tool)
 - [Hello World](hello-world)
 - [jupyter](jupyter)
 - [f4 address converter](f4-converter)
 
 
 ### DeFi
-
-Awesome DeFi apps you can deploy on Akash
-
 - [yfii](yfii)
