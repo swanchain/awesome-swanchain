@@ -4,7 +4,7 @@ services:
     image: sxk1633/aleo-beta-miner-zklion-cpu-multi:latest
     env:
       - POOL_URL=wss://aleo.zklion.com:3777
-      - ACCOUNTNAME=xxxx-xxxx
+      - ACCOUNTNAME=rootabc
     expose:
       - port: 5000
         as: 5000
