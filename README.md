@@ -48,6 +48,8 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
     - [aleo-f2pool-gpu](aleo-f2pool-gpu)
     - [aleo_testnet_miner_beta_f2pool](aleo_testnet_miner_beta_f2pool)
 
+### Defi
+- [Luaswap](luaswap)
 
 ### Tools
 - [github-to-lagrange-tool](github-to-lagrange-tool)
