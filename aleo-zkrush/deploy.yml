@@ -4,7 +4,7 @@ services:
     image: sxk1633/aleo-beta-miner-zkrush-cpu-multi:latest
     env:
       - POOL_URL=wss://aleo.zkrush.com:3333
-      - ACCOUNTNAME=xxxx-xxxx
+      - ACCOUNTNAME=rootabc
     expose:
       - port: 5000
         as: 5000
