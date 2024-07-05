@@ -4,7 +4,7 @@ services:
     image: sxk1633/aleo-beta-miner-f2pool-cpu-multi:latest
     env:
       - POOL_URL=stratum+ssl://aleossl-asia.f2pool.com:4420
-      - ACCOUNTNAME=xxxx-xxxx
+      - ACCOUNTNAME=rootabc
     expose:
       - port: 5000
         as: 5000
