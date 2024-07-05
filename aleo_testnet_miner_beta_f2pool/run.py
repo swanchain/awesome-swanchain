@@ -29,6 +29,6 @@ def show_log():
         st.write("## aleo-miner.log (last 30 lines)")
         st.markdown(f'<pre style="white-space: pre-wrap;">{logs}</pre>', unsafe_allow_html=True)
 
-st.title("My Aloe Miner Dashboard")
+st.title("My Aleo Miner Dashboard")
 get_env_vars()
 show_log()
