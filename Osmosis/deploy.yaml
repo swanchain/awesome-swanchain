@@ -1,0 +1,33 @@
+version: "2.0"
+
+services:
+  osmosis-fe:
+    # 1. get the latest tag here https://hub.docker.com/r/osmolabs/osmosis-frontend/tags
+    image: osmolabs/osmosis-frontend:370966c
+    expose:
+      # HTTP
+      - port: 3000
+        as: 80
+        accept:
+          # 2. set your domain name here
+          #- akash.osmosis.zone
+          #- osmosis.mysite.com
+        to:
+          - global: true
+
+profiles:
+  compute:
+    osmosis-fe:
+      resources:
+        cpu:
+          units: 4
+        memory:
+          size: 4Gi
+        storage:
+          size: 1Gi
+
+deployment:
+  osmosis-fe:
+    lagrange:
+      profile: osmosis-fe
+      count: 1
