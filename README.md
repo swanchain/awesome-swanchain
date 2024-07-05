@@ -36,7 +36,8 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 ### Zero Knowledge Service
 - [Fil-c2-service](fil-c2-service)
-- [aleo-cpu-f2pool](aleo-cpu-f2pool)
+- Aleo
+    - [aleo-cpu-f2pool](aleo-cpu-f2pool)
 
 ### Defi
 - [sushiswap](sushiswap)
