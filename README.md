@@ -101,6 +101,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Jira](./Jira)
 - [code-server](code-server)
 - [Uma Protocol](uma-protocol)
+- [Periodic Table Creator](perio)
 - [Lagrange-hello-world](Lagrange-hello-world)
 - [dart-hello](dart)
 - [DEGO_Stats](./DEGO)
