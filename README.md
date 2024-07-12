@@ -115,6 +115,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Kanboard](kanboard)
 - [Doccano](doccano)
 
+
 ### DeFi
 - [sushiswap](sushiswap)
 - [uniswap](uniswap)
@@ -144,6 +145,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 ### Wallet
 - [MyetherWallet](MyetherWallet)
 - [tronwallet](tronwallet)
+- [Lunie Wallet for Cosmos SDK](lunie-light)
 
 ### Databases and Administration
 - [CouchDB](couchdb)
