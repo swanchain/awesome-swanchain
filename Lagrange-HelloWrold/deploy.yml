@@ -1,0 +1,11 @@
+version: "2.0"
+services:
+  hello-world:
+    image: sxk1633/lag-hello-world:latest
+    expose:
+      - port: 80
+        as: 80
+deployment:
+  hello-world:
+    lagrange:
+      count: 1
