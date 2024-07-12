@@ -123,7 +123,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Kanboard](kanboard)
 - [Doccano](doccano)
 - [LightSpeed](lightspeed)
-- [OpenSpeedTest](OpenSpeedTest)
+- [OpenSpeedTest](OpenSpeed)
 
 
 ### DeFi
