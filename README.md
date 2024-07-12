@@ -123,6 +123,8 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Osmosis](./Osmosis)
 - [Synthetix](./Synthetix)
 - [Yearn](./Yearn)
+- [dFed](dfed)
+- [Yearn](./Yearn)
 - [Curve](./Curve)
 - [Ren Protocol](renprotocol)
 - [yfii](yfii)
