@@ -40,6 +40,9 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [2048](./2048-game)
 - [game-of-life](./game-of-life)
 - [dos_game](./dos_game)
+
+- [game-connect3](./game-connect3)
+
 - [game-ball-shooting](./game-ball-shooting)
 
 - [game-fireboy-and-watergirl-2](./game-fireboy-and-watergirl-2)
@@ -61,7 +64,6 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Pac-Man](pacman)
 - [supermario](supermario)
 - [Minesweeper](minesweeper)
-
 
 
 ### Zero Knowledge Service
