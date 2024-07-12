@@ -1,0 +1,34 @@
+version: "2.0"
+
+services:
+  balancer:
+    image: stephendefi/balancer:latest
+    expose:
+      - port: 80
+        as: 80
+        to:
+          - global: true
+
+profiles:
+  compute:
+    balancer:
+      resources:
+        cpu:
+          units: 1
+        memory:
+          size: 512Mi
+        storage:
+          size: 512Mi
+
+placement:
+  lagrange:
+    pricing:
+      balancer:
+        denom: uakt
+        amount: 10000
+
+deployment:
+  balancer:
+    lagrange:
+      profile: balancer
+      count: 1
