@@ -121,6 +121,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Doccano](doccano)
 
 
+
 ### DeFi
 - [sushiswap](sushiswap)
 - [uniswap](uniswap)
@@ -136,6 +137,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Yearn.finance](Yearn.finance)
 - [Bancor](bancor)
 - [Luaswap](luaswap)
+- [KnowYourDeFi](knowyourdefi)
 
 
 ### Blogging
