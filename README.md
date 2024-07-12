@@ -126,3 +126,8 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 ### Hosting
 
+
+### Chat
+
+- [Mattermost](mattermost)
+
