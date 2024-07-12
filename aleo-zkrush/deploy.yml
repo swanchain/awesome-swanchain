@@ -1,0 +1,14 @@
+version: "2.0"
+services:
+  aleo:
+    image: sxk1633/aleo-beta-miner-zkrush-cpu-multi:latest
+    env:
+      - POOL_URL=wss://aleo.zkrush.com:3333
+      - ACCOUNTNAME=rootabc
+    expose:
+      - port: 5000
+        as: 5000
+deployment:
+  aleo:
+    lagrange:
+      count: 1
