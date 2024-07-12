@@ -40,6 +40,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [2048](./2048-game)
 - [game-of-life](./game-of-life)
 - [dos_game](./dos_game)
+- [game-bounceback](./game-bounceback)
 - [game-cuttheropeholiday](./game-cuttheropeholiday)
 - [game-canvas-untangle-game](./game-canvas-untangle-game)
 - [game-css3-matching-game](./game-css3-matching-game)
@@ -56,7 +57,6 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Pac-Man](pacman)
 - [supermario](supermario)
 - [Minesweeper](minesweeper)
-
 
 
 ### Zero Knowledge Service
