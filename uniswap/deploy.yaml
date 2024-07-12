@@ -1,0 +1,16 @@
+version: "2.0"
+
+services:
+  uniswap:
+    image: scriptmoney/uniswap:v2
+    expose:
+      - port: 80
+        as: 80
+        to:
+          - global: true
+
+deployment:
+  uniswap:
+    akash:
+      profile: uniswap
+      count: 1
