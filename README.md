@@ -99,6 +99,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Jira](./Jira)
 - [code-server](code-server)
 - [Uma Protocol](uma-protocol)
+- [Keycloak IAM](keycloak-iam)
 - [Folding@home](folding-at-home)
 - [Periodic Table Creator](perio)
 - [Lagrange-hello-world](Lagrange-hello-world)
@@ -114,7 +115,6 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [DEGO_Stats](DEGO)
 - [Kanboard](kanboard)
 - [Doccano](doccano)
-
 
 
 ### DeFi
