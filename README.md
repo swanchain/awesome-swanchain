@@ -66,6 +66,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Jira](./Jira)
 - [code-server](code-server)
 - [Uma Protocol](uma-protocol)
+- [IPFS](./IPFS)
 - [DEGO Stats](dego-stats)
 - [Quill editor](quill-editor)
 - [DEGO_Stats](DEGO)
