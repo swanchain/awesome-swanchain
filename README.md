@@ -67,6 +67,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Quill editor](quill-editor)
 - [DEGO_Stats](DEGO)
 - [Kanboard](kanboard)
+- [Doccano](doccano)
 
 
 ### DeFi
@@ -108,4 +109,11 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 ### Data Visualization
 -  [UFO Sightings](ufo-data-vis)
+
+
+
+### Hosting
+
+
+
 
