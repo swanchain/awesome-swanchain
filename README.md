@@ -53,6 +53,9 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [code-server](code-server)
 - [Uma Protocol](uma-protocol)
 - [DEGO_Stats](./DEGO)
+- [Terminal](./Terminal)
+- [Json-Viewr](./Json_viewer)
+- [Chainnode](./ChainNode)
 
 
 ### DeFi
