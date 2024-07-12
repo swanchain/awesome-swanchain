@@ -62,7 +62,8 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [code-server](code-server)
 - [Uma Protocol](uma-protocol)
 - [Quill editor](quill-editor)
-- [DEGO_Stats](./DEGO)
+- [DEGO_Stats](DEGO)
+- [Kanboard](kanboard)
 
 
 ### DeFi
@@ -90,4 +91,5 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 ### Wallet
 - [MyetherWallet](MyetherWallet)
 - [tronwallet](tronwallet)
+
 
