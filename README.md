@@ -103,7 +103,9 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [CouchDB](couchdb)
 - [InfluxDB](influxdb)
 - [pgAdmin](pgadmin4)
-
-### Databases and Administration
-
 - [mongoDB](mongodb)
+
+
+### Data Visualization
+-  [UFO Sightings](ufo-data-vis)
+
