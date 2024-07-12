@@ -40,6 +40,9 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [2048](./2048-game)
 - [game-of-life](./game-of-life)
 - [dos_game](./dos_game)
+- [game-chess](./game-chess)
+- [game-basketballstars](./game-basketballstars)
+- [game-crossyroad](./game-crossyroad)
 - [game-box2d-car-game](./game-box2d-car-game)
 - [game-breaklock](./game-breaklock)
 - [game-amongus](./game-amongus)
@@ -77,6 +80,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Jira](./Jira)
 - [code-server](code-server)
 - [Uma Protocol](uma-protocol)
+- [Lagrange-hello-world](Lagrange-hello-world)
 - [dart-hello](dart)
 - [DEGO_Stats](./DEGO)
 - [Terminal](./Terminal)
@@ -89,7 +93,6 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [DEGO_Stats](DEGO)
 - [Kanboard](kanboard)
 - [Doccano](doccano)
-
 
 ### DeFi
 - [sushiswap](sushiswap)
