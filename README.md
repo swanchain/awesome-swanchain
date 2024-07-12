@@ -68,14 +68,17 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Jira](./Jira)
 - [code-server](code-server)
 - [Uma Protocol](uma-protocol)
-- [Jupyter Notebook](./Jupyter_Notebook)
+- [DEGO_Stats](./DEGO)
+- [Terminal](./Terminal)
+- [Json-Viewr](Json_viewer)
+- [Chainnode](ChainNode)
+- [Jupyter Notebook](Jupyter-Notebook)
 - [IPFS](./IPFS)
 - [DEGO Stats](dego-stats)
 - [Quill editor](quill-editor)
 - [DEGO_Stats](DEGO)
 - [Kanboard](kanboard)
 - [Doccano](doccano)
-
 
 
 ### DeFi
