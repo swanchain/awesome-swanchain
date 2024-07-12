@@ -99,4 +99,6 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [tronwallet](tronwallet)
 
 ### Databases and Administration
+- [CouchDB](couchdb)
 - [InfluxDB](influxdb)
+
