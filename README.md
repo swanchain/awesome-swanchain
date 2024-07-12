@@ -54,6 +54,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [jupyter](jupyter)
 - [f4 address converter](f4-converter)
 - [goosebin](goosebin)
+- [Caddy](caddy)
 - [balancer](balancer)
 - [thirdweb](thirdweb)
 - [adminer](adminer)
@@ -99,4 +100,3 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 ### Databases and Administration
 - [InfluxDB](influxdb)
-
