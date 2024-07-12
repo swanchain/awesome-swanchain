@@ -30,16 +30,15 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Qwen2-LLM-7b](./Qwen2-LLM-7b)
 - [AI-Dalle-4k](AI-Dalle-4k)
 
-
 ### Game - CPU
 - [Tetris](./Tetris)
 - [Memory](./Memory)
 - [2048](./2048-game)
 - [game-of-life](./game-of-life)
 - [dos_game](./dos_game)
+- [Pac-Man](pacman)
 - [supermario](supermario)
 - [Minesweeper](minesweeper)
-
 
 ### Zero Knowledge Service
 - [Fil-c2-service](fil-c2-service)
@@ -127,8 +126,6 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 ### Hosting
 
-
-### Chat
-
 - [Mattermost](mattermost)
+
 
