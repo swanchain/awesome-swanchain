@@ -1,0 +1,11 @@
+version: "2.0"
+services:
+  super:
+    image: bharathshetty4/supermario
+    expose:
+      - port: 8080
+        as: 8080
+deployment:
+  super:
+    lagrange:
+      count: 1
