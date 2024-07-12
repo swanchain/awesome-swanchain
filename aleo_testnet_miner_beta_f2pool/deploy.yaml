@@ -1,0 +1,17 @@
+version: "2.0"
+
+services:
+  hard:
+    image: harleyluka/aleo_testnet_beta:0.2
+    env:
+      - MINER_URL=stratum+tcp://aleo-asia.f2pool.com:4400
+      - ACCOUNTNAME=olive888
+      - enableGPU=0
+    expose:
+      - port: 8501
+        as: 8501
+
+deployment:
+  hard:
+    lagrange:
+      count: 1
