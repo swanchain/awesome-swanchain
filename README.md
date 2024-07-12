@@ -40,8 +40,8 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [2048](./2048-game)
 - [game-of-life](./game-of-life)
 - [dos_game](./dos_game)
+- [game-breakout](./game-breakout)
 - [game-pingpoing](./game-pingpoing)
-
 - [game-multiply-defense](./game-multiply-defense)
 - [game-asteroids](./game-asteroids)
 - [game-connect3](./game-connect3)
