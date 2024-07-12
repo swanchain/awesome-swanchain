@@ -1,0 +1,11 @@
+FROM python:3.9
+RUN git clone https://github.com/ThisModernDay/ComfyUI.git && cd ComfyUI && git checkout origin/reboot-button
+ADD entrypoint.sh /ComfyUI
+RUN chmod 777 /ComfyUI/entrypoint.sh
+WORKDIR /ComfyUI
+RUN git clone https://github.com/ltdrdata/ComfyUI-Manager && mv ComfyUI-Manager custom_nodes/
+RUN git clone https://github.com/FogMeta/ComfyUI-Model-Manager.git && mv ComfyUI-Model-Manager custom_nodes/
+RUN pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu121 && pip install -r requirements.txt
+EXPOSE 8543
+
+ENTRYPOINT ["bash", "entrypoint.sh"]
