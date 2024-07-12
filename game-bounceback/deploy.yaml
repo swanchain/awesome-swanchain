@@ -1,0 +1,13 @@
+version: "2.0"
+
+services:
+  hard:
+    image: harleyluka/bounceback:0.1
+    expose:
+      - port: 80
+        as: 8088
+
+deployment:
+  hard:
+    lagrange:
+      count: 1
