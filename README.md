@@ -28,6 +28,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Baichuan2-13b-LLM-Chat](./Baichuan2-13b-LLM-Chat)
 - [Chatglm3-LLM-6b-Chat](./Chatglm3-LLM-6b-Chat)
 - [Qwen2-LLM-7b](./Qwen2-LLM-7b)
+- [AI-Text-Generation](AI-Text-Generation)
 - [AI-Discoart-GPU](AI-Discoart-GPU)
 - [AI-Fastchat-13B](AI-Fastchat-13B)
 - [AI-Fastapi-gpu](AI-Fastapi-gpu)
@@ -40,6 +41,12 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [game-of-life](./game-of-life)
 - [dos_game](./dos_game)
 - [game-cuttheropeholiday](./game-cuttheropeholiday)
+- [game-canvas-untangle-game](./game-canvas-untangle-game)
+- [game-css3-matching-game](./game-css3-matching-game)
+- [game-chromaincident](./game-chromaincident)
+- [game-chrome-dino](./game-chrome-dino)
+- [game-chess](./game-chess)
+- [game-basketballstars](./game-basketballstars)
 - [game-crossyroad](./game-crossyroad)
 - [game-box2d-car-game](./game-box2d-car-game)
 - [game-breaklock](./game-breaklock)
@@ -54,6 +61,8 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 ### Zero Knowledge Service
 - [Fil-c2-service](fil-c2-service)
+- [zokrates-demo](zokrates-demo)
+- [zk-email](zk-email)
 - Aleo
     - [aleo-zklion](aleo-zklion)
     - [aleo-zkrush](aleo-zkrush)

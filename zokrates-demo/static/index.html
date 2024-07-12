@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ZoKrates Frontend</title>
+    <script>
+        async function compute() {
+            const a = document.getElementById("a").value;
+            const b = document.getElementById("b").value;
+            const c = document.getElementById("c").value;
+
+            const response = await fetch('/compute', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ a: a, b: b, c: c })
+            });
+
+            const result = await response.json();
+            document.getElementById("result").innerText = result.result || result.error;
+        }
+    </script>
+</head>
+<body>
+    <h1>ZoKrates Frontend</h1>
+    <form onsubmit="event.preventDefault(); compute();">
+        <label for="a">A:</label>
+        <input type="text" id="a" name="a"><br><br>
+        <label for="b">B:</label>
+        <input type="text" id="b" name="b"><br><br>
+        <label for="c">C:</label>
+        <input type="text" id="c" name="c"><br><br>
+        <input type="submit" value="Compute">
+    </form>
+    <h2>Result:</h2>
+    <p id="result"></p>
+</body>
+</html>
