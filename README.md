@@ -40,14 +40,12 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [2048](./2048-game)
 - [game-of-life](./game-of-life)
 - [dos_game](./dos_game)
+
+- [game-multiply-defense](./game-multiply-defense)
 - [game-asteroids](./game-asteroids)
-
 - [game-connect3](./game-connect3)
-
 - [game-ball-shooting](./game-ball-shooting)
-
 - [game-fireboy-and-watergirl-2](./game-fireboy-and-watergirl-2)
-
 - [game-bounceback](./game-bounceback)
 - [game-cuttheropeholiday](./game-cuttheropeholiday)
 - [game-canvas-untangle-game](./game-canvas-untangle-game)
