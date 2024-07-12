@@ -7,13 +7,14 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 
 ## Table of Contents <!-- omit in toc -->
-- [AI - CPU](#ai---cpu)
 - [AI - GPU](#ai---gpu)
+- [Games](#games)
 - [Zero Knowledge Service](#Zero-Knowledge)
 - [Tools](#tools)
-
-### AI - CPU
-
+- [DeFi](#DeFi)
+- [Blogging](#Blogging)
+- [Wallet](#Wallet)
+- [Database](#Database)
 
 
 ### AI - GPU
@@ -34,7 +35,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [AI-Fastapi-gpu](AI-Fastapi-gpu)
 - [AI-Dalle-4k](AI-Dalle-4k)
 
-### Game - CPU
+### Games
 - [Tetris](./Tetris)
 - [Tetris2](tetris2)
 - [Memory](./Memory)
@@ -125,6 +126,9 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [LightSpeed](lightspeed)
 - [OpenSpeedTest](OpenSpeed)
 - [Event-Timer](Event-Timer)
+- [Dharani](dharani)
+- [NextJS](nextjs)
+- [Mattermost](mattermost)
 
 
 ### DeFi
@@ -143,7 +147,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Bancor](bancor)
 - [Luaswap](luaswap)
 - [KnowYourDeFi](knowyourdefi)
-
+- [UFO Sightings](ufo-data-vis)
 
 ### Blogging
 - [Wiki.js](./Wiki)
@@ -152,33 +156,16 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [SteemCN](steemcn)
 - [Confluence](confluence)
 
-### Web Frameworks
-- [NextJS](nextjs)
-
-
 ### Wallet
 - [MyetherWallet](MyetherWallet)
 - [tronwallet](tronwallet)
 - [Lunie Wallet for Cosmos SDK](lunie-light)
 
-### Databases and Administration
+### Database
 - [CouchDB](couchdb)
 - [InfluxDB](influxdb)
 - [pgAdmin](pgadmin4)
 - [mongoDB](mongodb)
 
 
-### Data Visualization
--  [UFO Sightings](ufo-data-vis)
 
-
-
-
-### Hosting
-
-- [Mattermost](mattermost)
-
-
-### Built with Cosmos-SDK
-
-- [Dharani](dharani)
