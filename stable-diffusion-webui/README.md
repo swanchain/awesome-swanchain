@@ -13,6 +13,8 @@
 
 ### Introduction
 Space Link: https://lagrangedao.org/spaces/0x231fe9090f4d45413474BDE53a1a0A3Bd5C0ef03/Stable-Diffusion-Base-LoRA/files
+
+
 This tutorial guides you on how to complete[ Task 2: Space Builder Task](https://github.com/lagrangedao/community/blob/main/Mars-Testnet/Lagrange-Mars-Testnet-Campaign.md), to fork and run a `Stable Diffusion Space`. It covers the deployment of Stable-diffusion in Lagrange Space, adding LoRA models to `Automatic1111` for image generation, and further customizing your Space with additional models.
 
 #### What is Stable Diffusion
