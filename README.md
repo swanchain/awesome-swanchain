@@ -21,7 +21,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Stable Diffusion Webui](stable-diffusion-webui)
 - [MusicGen](musicGen)
 - [Text to Speach](TTS)
-- [ComfyUI](comfyui)
+- [ComfyUI](comfyUI)
 - [Llama3-8B-LLM-Chat](./Llama3-8B-LLM-Chat)
 - [Google-gemma-7B-LLM-Chat](./Google-gemma-7B-LLM-Chat)
 - [Llama2-13B-LLM-Chat](./Llama2-13B-LLM-Chat)
