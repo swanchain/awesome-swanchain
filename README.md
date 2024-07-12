@@ -38,6 +38,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [game-of-life](./game-of-life)
 - [dos_game](./dos_game)
 - [supermario](supermario)
+- [Minesweeper](minesweeper)
 
 
 ### Zero Knowledge Service
@@ -113,6 +114,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 ### Data Visualization
 -  [UFO Sightings](ufo-data-vis)
+
 
 
 
