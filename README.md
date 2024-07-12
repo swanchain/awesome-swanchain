@@ -122,6 +122,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [DEGO_Stats](DEGO)
 - [Kanboard](kanboard)
 - [Doccano](doccano)
+- [LightSpeed](lightspeed)
 
 
 ### DeFi
