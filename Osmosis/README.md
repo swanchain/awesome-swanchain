@@ -1,0 +1,8 @@
+## What is Osmosis?
+Osmosis is the premier cross-chain DeFi hub. As the liquidity center and primary trading venue of Cosmos – the open, emergent ecosystem of sovereign Layer 1s connected with the Inter-Blockchain Communication protocol (IBC) – it is the access point for the wide world of appchains, the gateway to the interchain. As IBC continues to explode – with more than 50 blockchains connected and dozens more in development, including dYdX chain, and with teams working to enable IBC on Avalanche, Polkadot, NEAR, and others, potentially even Ethereum – Osmosis will be there to welcome new users, developers, and protocols to the Internet of Blockchains.
+
+The Osmosis Ecosystem is a suite of premier, DAO-gated dApps that are tightly integrated into the Osmosis AMMs and IBC routing capabilities. Dozens of developer teams are building index tokens, options, perps, stops and limit orders, automated trading, yield vaults, NFTs, and more. With new apps and features like stableswap, concentrated liquidity, rate-limiting, in-protocol MEV capture, and more going live all the time, Osmosis is continuing to expand its moat as the only full-service, cross-chain exchange and DeFi hub, one that rivals the smooth user experience of a CEX without compromising on the benefits of decentralized finance – self-custody, trust-minimized transactions, direct on-chain access, and privacy.
+
+## Space
+https://lagrangedao.org/spaces/0x4b09e29a0286dEa0AC64fc258c820730c4F3E0a4/Osmosis/app
+<img width="1219" alt="image" src="https://github.com/Fuyurawaki/awesome-swanchain/assets/173648399/660ced25-b2dd-4246-9fb7-7e10da48108d">
