@@ -40,6 +40,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [2048](./2048-game)
 - [game-of-life](./game-of-life)
 - [dos_game](./dos_game)
+- [game-chromaincident](./game-chromaincident)
 - [game-chrome-dino](./game-chrome-dino)
 - [game-chess](./game-chess)
 - [game-basketballstars](./game-basketballstars)
