@@ -41,10 +41,8 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [2048](./2048-game)
 - [game-of-life](./game-of-life)
 - [dos_game](./dos_game)
+- [3d_Snake](3d_Snake)
 - [16_Puzzle](16_Puzzle)
-
-
-
 - [game-cuttheropetimetravel](./game-cuttheropetimetravel)
 - [game-breakout](./game-breakout)
 - [game-pingpoing](./game-pingpoing)
@@ -70,7 +68,6 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Pac-Man](pacman)
 - [supermario](supermario)
 - [Minesweeper](minesweeper)
-
 
 
 ### Zero Knowledge Service
