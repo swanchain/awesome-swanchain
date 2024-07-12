@@ -168,3 +168,6 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Mattermost](mattermost)
 
 
+### Built with Cosmos-SDK
+
+- [Dharani](dharani)
