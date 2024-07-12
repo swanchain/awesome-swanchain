@@ -36,6 +36,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [2048](./2048-game)
 - [game-of-life](./game-of-life)
 - [dos_game](./dos_game)
+- [game-box2d-car-game](./game-box2d-car-game)
 - [game-breaklock](./game-breaklock)
 - [game-amongus](./game-amongus)
 - [game-rush](./game-rush)
