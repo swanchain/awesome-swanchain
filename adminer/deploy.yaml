@@ -1,0 +1,34 @@
+version: "2.0"
+
+services:
+  adminer:
+    image: adminer
+    expose:
+      - port: 8080
+        as: 80
+        to:
+          - global: true
+
+profiles:
+  compute:
+    adminer:
+      resources:
+        cpu:
+          units: 0.1
+        memory:
+          size: 512Mi
+        storage:
+          size: 512Mi
+
+placement:
+  lagrange:
+    pricing:
+      adminer:
+        denom: uakt
+        amount: 10000
+
+deployment:
+  adminer:
+    lagrange:
+      profile: adminer
+      count: 1
