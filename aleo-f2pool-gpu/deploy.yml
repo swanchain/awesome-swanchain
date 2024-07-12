@@ -1,0 +1,14 @@
+version: "2.0"
+services:
+  aleo:
+    image: sxk1633/aleo-beta-miner-f2pool-gpu-multi:latest
+    env:
+      - POOL_URL=stratum+ssl://aleossl-asia.f2pool.com:4420
+      - ACCOUNTNAME=rootabc
+    expose:
+      - port: 5000
+        as: 5000
+deployment:
+  aleo:
+    lagrange:
+      count: 1
