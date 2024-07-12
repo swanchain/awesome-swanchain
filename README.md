@@ -68,6 +68,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Jira](./Jira)
 - [code-server](code-server)
 - [Uma Protocol](uma-protocol)
+- [dart-hello](dart)
 - [DEGO_Stats](./DEGO)
 - [Terminal](./Terminal)
 - [Json-Viewr](Json_viewer)
