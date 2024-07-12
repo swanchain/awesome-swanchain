@@ -53,6 +53,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Hello World](hello-world)
 - [jupyter](jupyter)
 - [f4 address converter](f4-converter)
+- [Flame](flame)
 - [goosebin](goosebin)
 - [Caddy](caddy)
 - [balancer](balancer)
@@ -101,8 +102,5 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 ### Databases and Administration
 - [CouchDB](couchdb)
 - [InfluxDB](influxdb)
-
-
-### Databases and Administration
-
 - [pgAdmin](pgadmin4)
+
