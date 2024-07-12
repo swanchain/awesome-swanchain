@@ -36,6 +36,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 ### Game - CPU
 - [Tetris](./Tetris)
+- [Tetris2](tetris2)
 - [Memory](./Memory)
 - [2048](./2048-game)
 - [game-of-life](./game-of-life)
