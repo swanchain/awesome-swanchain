@@ -1,0 +1,27 @@
+version: "2.0"
+
+services:
+  curve:
+    image: davaymne/curve-ui:latest 
+    expose:
+      - port: 8000
+        as: 80
+        to:
+          - global: true
+
+profiles:
+  compute:
+    curve:
+      resources:
+        cpu:
+          units: 0.1 
+        memory:
+          size: 512Mi
+        storage:
+          size: 2.5Gi
+
+deployment:
+  curve:
+    lagrange:
+      profile: curve
+      count: 1
