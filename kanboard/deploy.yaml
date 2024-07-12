@@ -1,15 +1,17 @@
 version: "2.0"
 
 services:
-  fast:
-    image: ddooo/fast
+  kanboard:
+    image: kanboard/kanboard:v1.2.8
     expose:
       - port: 80
+        as: 80
         to:
           - global: true
+
 profiles:
   compute:
-    fast:
+    kanboard:
       resources:
         cpu:
           units: 1.0
@@ -19,12 +21,19 @@ profiles:
           size: 512Mi
   placement:
     akash:
+      attributes:
+        host: akash
+      signedBy:
+        anyOf:
+          - "akash1365yvmc4s7awdyj3n2sav7xfx76adc6dnmlx63"
+          - "akash18qa2a2ltfyvkyj0ggj3hkvuj6twzyumuaru9s4"
       pricing:
-        fast:
+        kanboard: 
           denom: uakt
           amount: 10000
+
 deployment:
-  fast:
+  kanboard:
     akash:
-      profile: fast
+      profile: kanboard
       count: 1
