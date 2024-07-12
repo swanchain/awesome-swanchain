@@ -41,6 +41,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [2048](./2048-game)
 - [game-of-life](./game-of-life)
 - [dos_game](./dos_game)
+- [AirBalloon](AirBalloon)
 
 - [Alien_Shooters](Alien_Shooters)
 - [2D_Breakout](2D_Breakout)
