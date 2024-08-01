@@ -30,9 +30,9 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Chatglm3-LLM-6b-Chat](./Chatglm3-LLM-6b-Chat)
 - [Qwen2-LLM-7b](./Qwen2-LLM-7b)
 - [AI-Text-Generation](AI-Text-Generation)
-- [AI-Discoart-GPU](AI-Discoart-GPU)
-- [AI-Fastchat-13B](./AI-Fastchat-13B)
-- [AI-Fastapi-gpu](AI-Fastapi-gpu)
+- [AI-Discoart-GPU](AI-DiscoArt)
+- [AI-Fastchat-13B](./AI-FastChat-13B)
+- [AI-Fastapi-gpu](AI-FastApi-GPU)
 - [AI-Dalle-4k](AI-Dalle-4k)
 
 ### Games
