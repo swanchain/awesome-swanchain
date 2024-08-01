@@ -109,14 +109,14 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [json-view](json-view)
 - [Keycloak IAM](keycloak-iam)
 - [Folding@home](folding-at-home)
-- [Periodic Table Creator](perio)
-- [Lagrange-hello-world](Lagrange-hello-world)
+- [Periodic Table Creator](Periodic-Table-Creator)
+- [Lagrange-hello-world](Lagrange-HelloWorld)
 - [dart-hello](dart)
 - [DEGO_Stats](./DEGO)
 - [Terminal](./Terminal)
 - [Json-Viewr](Json_viewer)
 - [Chainnode](ChainNode)
-- [Jupyter Notebook](Jupyter-Notebook)
+- [Jupyter Notebook](Jupyter_Notebook)
 - [IPFS](./IPFS)
 - [DEGO Stats](dego-stats)
 - [Quill editor](quill-editor)
@@ -152,20 +152,20 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 ### Blogging
 - [Wiki.js](./Wiki)
 - [Drupal](drupal)
-- [Grav](grav)
+- [Grav](Grav)
 - [SteemCN](steemcn)
 - [Confluence](confluence)
 
 ### Wallet
-- [MyetherWallet](MyetherWallet)
+- [MyetherWallet](MyEtherWallet)
 - [tronwallet](tronwallet)
-- [Lunie Wallet for Cosmos SDK](lunie-light)
+- [Lunie Wallet for Cosmos SDK](lunie-lite)
 
 ### Database
 - [CouchDB](couchdb)
 - [InfluxDB](influxdb)
 - [pgAdmin](pgadmin4)
-- [mongoDB](mongodb)
+- [mongoDB](mongoDB)
 
 
 
