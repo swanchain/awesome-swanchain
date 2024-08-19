@@ -2,7 +2,7 @@ version: "2.0"
 
 services:
   hard:
-    image: harleyluka/llama3-8b:0.1
+    image: filswan/llama3-8b:0.1
     expose:
       - port: 8501
         as: 8501
