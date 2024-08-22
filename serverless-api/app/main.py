@@ -26,3 +26,7 @@ def read_item(item_id: int):
         if item.id == item_id:
             return item
     return {"error": "Item not found"}
+
+@app.get("/")
+def read_root():
+    return {"ping": "pong"}
