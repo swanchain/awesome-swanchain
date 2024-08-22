@@ -1,0 +1,17 @@
+version: "2.0"
+
+services:
+  checksumevm:
+    image: mavhub/checksumevm:1718000363
+    expose:
+      - port: 5000
+        as: 80
+        to:
+          - global: true
+
+deployment:
+  checksumevm:
+    akash:
+      placement:
+        count: 1
+        
