@@ -1,0 +1,139 @@
+<!-- Countdown Timer For Swanchain events -->
+<!-- MaV -->
+<!-- reffered to the documents by EST auto adjust to EDT-->
+<!-- In 2024: Daylight saving time (EDT) starts on March 10, 2024, and ends on November 3, 2024. -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Countdown Timer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            height: 100vh;
+            margin: 0;
+            padding: 20px;
+            background: url('bg2.png') no-repeat center center fixed;
+            background-size: cover;
+        }
+
+        #header {
+            font-size: 0.8em;
+            font-weight: bold;
+            color: white;
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            margin-top: 5px;
+        }
+
+        #countdown-container {
+            text-align: center;
+            background-color: rgba(0, 0, 0, 0.5);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 90%;
+        }
+
+        #main-title {
+            font-size: 1.8em;
+            font-weight: bold;
+            margin-top: 30px;
+            margin-bottom: 10px;
+            color: rgb(72, 72, 255);
+        }
+
+        .event-title {
+            font-size: 1.5em;
+            font-weight: bold;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            color: rgb(160, 160, 229);
+        }
+
+        .countdown {
+            font-size: 3em;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: rgb(156, 2, 2);
+        }
+
+        #local-time {
+            color: white;
+            font-size: 0.8em;
+            margin-top: 20px;
+        }
+
+        @media (max-width: 600px) {
+            #header {
+                font-size: 0.6em;
+            }
+            #main-title {
+                font-size: 2em;
+            }
+            .event-title {
+                font-size: 1.5em;
+            }
+            .countdown {
+                font-size: 2em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="header">MaV 2024 V2.22</div>
+    <div id="countdown-container">
+        <div id="main-title">SWAN Events to Finish</div>
+        <div class="event-title">CP Acceleration Program</div>
+        <div id="countdown1" class="countdown"></div>
+        <div class="event-title">Builder Acceleration Program & Community Engagement Challenge</div>
+        <div id="countdown2" class="countdown"></div>
+        <div class="event-title">On Chain Interaction Race</div>
+        <div id="countdown3" class="countdown"></div>
+        <div id="local-time"></div>
+    </div>
+    <script>
+        function updateCountdowns() {
+            const events = [
+                {id: 'countdown1', date: new Date('2024-07-16T03:59:00Z')}, // July 15th, 2024, 23:59 EDT (adjusted for EDT)
+                {id: 'countdown2', date: new Date('2024-06-30T03:59:00Z')}, // June 29th, 2024, 23:59 EDT (adjusted for EDT)
+                {id: 'countdown3', date: new Date('2024-06-15T03:59:00Z')}  // June 14th, 2024, 23:59 EDT (adjusted for EDT)
+            ];
+
+            events.forEach(event => {
+                const now = new Date();
+                const diff = event.date - now;
+                const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+                const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+                const seconds = Math.floor((diff % (1000 * 60)) / 1000);
+
+                document.getElementById(event.id).innerHTML =
+                    days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
+
+                if (diff < 0) {
+                    document.getElementById(event.id).innerHTML = "FINISHED";
+                }
+            });
+
+            // Display local time
+            const localTimeElement = document.getElementById('local-time');
+            const now = new Date();
+            const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: 'numeric', minute: 'numeric', second: 'numeric', timeZoneName: 'short' };
+            const localTime = now.toLocaleDateString('en-US', options);
+            localTimeElement.textContent = 'Device Time: ' + localTime;
+        }
+
+        setInterval(updateCountdowns, 1000);
+    </script>
+</body>
+</html>

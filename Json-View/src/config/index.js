@@ -1,0 +1,3 @@
+module.exports = {
+  baseTitle: 'Tools'
+}
