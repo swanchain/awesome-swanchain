@@ -1,0 +1,181 @@
+html,
+body {
+    width: 100%;
+    min-height: 100%;
+    background-color: #fff;
+    font-size: 116px;
+    text-align: left;
+}
+
+*,
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+form,
+fieldset,
+legend,
+input,
+button,
+textarea,
+p,
+blockquote,
+th,
+td {
+    margin: 0;
+    padding: 0;
+    cursor: default;
+    font-family: 'Roboto,sans-serif';
+}
+
+body {
+    padding: 0;
+    /* font-family: 'Helvetica Neue', Helvetica, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', '微软雅黑', Arial, sans-serif; */
+    /* font-family: 'Merriweather Sans'; */
+    font-family: 'Roboto,sans-serif';
+}
+
+#app {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #333;
+}
+
+body::-webkit-scrollbar-track,
+#app::-webkit-scrollbar-track {
+    background: #f7f7f7;
+}
+
+body::-webkit-scrollbar,
+#app::-webkit-scrollbar {
+    width: 6px;
+    background: #ccc;
+}
+
+body::-webkit-scrollbar-thumb,
+#app::-webkit-scrollbar-thumb {
+    background: #ccc;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+fieldset {
+    border: none;
+}
+
+img {
+    border: none;
+}
+
+ul,
+li,
+dd,
+dl,
+dt {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+}
+
+a:active,
+a:visited,
+a:link,
+a:hover {
+    border: 0;
+    border-color: inherit;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:focus {
+    outline: none;
+    /* -moz-outline-style:none; */
+}
+
+[v-cloak] {
+    display: none;
+}
+
+.landing {
+    width: 16.6rem;
+    max-width: 100%;
+    margin: auto;
+}
+
+@media screen and (max-width:1800px) {
+    html,
+    body,
+    #app,
+    .wrapper {
+        font-size: 110px;
+    }
+    .landing {
+        width: 16rem;
+    }
+}
+
+@media screen and (max-width:1600px) {
+    html,
+    body,
+    #app,
+    .wrapper {
+        font-size: 100px;
+    }
+}
+
+@media screen and (max-width:1260px) {
+    html,
+    body,
+    #app,
+    .wrapper {
+        font-size: 80px;
+    }
+}
+
+@media screen and (max-width:1024px) {
+    html,
+    body,
+    #app,
+    .wrapper {
+        font-size: 70px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    html,
+    body,
+    #app,
+    .wrapper {
+        font-size: 55px;
+    }
+}
+
+@media screen and (max-width:640px) {
+    html,
+    body,
+    #app,
+    .wrapper {
+        font-size: 42px;
+    }
+}
