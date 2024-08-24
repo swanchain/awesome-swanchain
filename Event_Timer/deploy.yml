@@ -1,0 +1,12 @@
+version: "2.0"
+services:
+  welcome:
+    image: mavhub/event_timer:1724350424
+    expose:
+    - port: 8080
+    as: 8080
+
+deployment:
+  welcome:
+    akash:
+    count: 1
