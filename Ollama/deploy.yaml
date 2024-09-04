@@ -1,0 +1,10 @@
+version: "2.0"
+services:
+  lagrange-ollama:
+    image: sxk1633/ollama:latest
+    expose:
+      - port: 8080
+deployment:
+  lagrange-ollama:
+    lagrange:
+      count: 1
