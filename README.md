@@ -19,8 +19,8 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 ### AI - GPU
 - [Stable Diffusion Webui](stable-diffusion-webui)
-- [MusicGen](musicGen)
-- [Text to Speach](TTS)
+- [MusicGen](./MusicGen)
+- [Text to Speach](./Text-to-Speech)
 - [ComfyUI](comfyUI)
 - [Llama3-8B-LLM-Chat](./Llama3-8B-LLM-Chat)
 - [Serge-LLaMA](Serge-LLaMA)
