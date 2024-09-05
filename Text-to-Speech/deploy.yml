@@ -1,0 +1,15 @@
+version: "2.0"
+services:
+  voice:
+    image: filswan/speecht5-tts:gpus
+    command: 
+      - "python"
+    args:
+      - "app.py"
+    expose:
+      - port: 7860 
+        as: 7860
+deployment:
+  voice:
+    lagrange:
+      count: 1
