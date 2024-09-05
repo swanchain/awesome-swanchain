@@ -91,9 +91,9 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 ### Tools
 - [github-to-lagrange-tool](github-to-lagrange-tool)
-- [Hello World](hello-world)
+- [Hello World](hello_world)
 - [jupyter](jupyter)
-- [f4 address converter](f4-converter)
+- [f4 address converter](f4_address_converter)
 - [microbox](microbox)
 - [Mintr](mintr)
 - [Flame](flame)
@@ -107,11 +107,11 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Jira](./Jira)
 - [code-server](code-server)
 - [Uma Protocol](uma-protocol)
-- [json-view](json-view)
+- [json-view](Json-View)
 - [Keycloak IAM](keycloak-iam)
 - [Folding@home](folding-at-home)
 - [Periodic Table Creator](Periodic-Table-Creator)
-- [Lagrange-hello-world](Lagrange-HelloWorld)
+- [Lagrange-hello-world](Lagrange-HelloWrold)
 - [dart-hello](dart)
 - [DEGO_Stats](./DEGO)
 - [Terminal](./Terminal)
@@ -127,7 +127,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [LightSpeed](lightspeed)
 - [OpenSpeedTest](OpenSpeed)
 - [Event-Timer](Event-Timer)
-- [Dharani](dharani)
+- [Dharani](Dharani)
 - [NextJS](nextjs)
 - [Mattermost](mattermost)
 
@@ -135,7 +135,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 ### DeFi
 - [sushiswap](sushiswap)
 - [uniswap](uniswap)
-- [LuaSwap](./LuaSwap)
+- [LuaSwap](./LuaSwap.)
 - [Osmosis](./Osmosis)
 - [Synthetix](./Synthetix)
 - [Yearn](./Yearn)
