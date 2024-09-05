@@ -1,0 +1,13 @@
+version: "2.0"
+
+services:
+  music:
+    image: sxk1633/musicgen:v1
+    expose:
+      - port: 8888
+        as: 80
+    
+deployment:
+  music:
+    akash:
+      count: 1
