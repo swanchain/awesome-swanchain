@@ -126,11 +126,11 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Doccano](doccano)
 - [LightSpeed](lightspeed)
 - [OpenSpeedTest](OpenSpeed)
-- [Event-Timer](https://github.com/xxScorpius97xx/awesome-swanchain/tree/main/Event_Timer)
+- [Event-Timer](Event-Timer)
 - [Dharani](dharani)
 - [NextJS](nextjs)
 - [Mattermost](mattermost)
-- [ChecksumEthereumAddress_eip55](https://github.com/xxScorpius97xx/awesome-swanchain/tree/main/ChecksumEthereumAddress)
+- [ChecksumEthereumAddress_eip55](ChecksumEthereumAddress)
   
 
 
