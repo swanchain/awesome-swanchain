@@ -126,7 +126,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Doccano](doccano)
 - [LightSpeed](lightspeed)
 - [OpenSpeedTest](OpenSpeed)
-- [Event-Timer](Event-Timer)
+- [Event-Timer](Event_Timer)
 - [Dharani](dharani)
 - [NextJS](nextjs)
 - [Mattermost](mattermost)
