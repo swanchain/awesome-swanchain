@@ -1,0 +1,1 @@
+Aleo test net mining.
