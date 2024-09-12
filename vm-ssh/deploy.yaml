@@ -1,0 +1,20 @@
+version: "2.0"
+type: node-port
+services:
+  vm:
+    image: filswan/ubuntu-ssh:22.04
+    env:
+      - sshkey=ssh-rsa AAAAB3NzaC1yc2EAAAADXXXXXXXX
+      - username=swantouser
+    expose:
+      - port: 22
+      - port: 30002
+      - port: 30003
+      - port: 30004
+      - port: 30005
+      - port: 30006
+      - port: 30007
+deployment:
+  vm:
+    lagrange:
+      count: 1
