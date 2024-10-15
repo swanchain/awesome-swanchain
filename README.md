@@ -170,5 +170,15 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [pgAdmin](pgadmin4)
 - [mongoDB](mongoDB)
 
-
+### Mining
+- [Aleo Mainnet f2pool:3.0.8](aleo_mainnet_f2pool:3.0.8)
+- [Iron Mainnet f2pool:latest](iron_mainnet_f2pool:latest)
+- [Rvn Mainnet f2pool:latest](rvn_mainnet_f2pool:latest)
+- [Zil Mainnet f2pool:latest](zil_mainnet_f2pool:latest)
+- [Nexa Mainnet f2pool:latest](nexa_mainnet_f2pool:latest)
+- [Alph Mainnet f2pool:latest](alph_mainnet_f2pool:latest)
+- [Aleo_Mainnet_h9:2.1.0](aleo_mainnet_h9:2.1.0)
+- [Aleo Mainnet_antpool:v1.0.0](aleo_mainnet_antpool:v1.0.0)
+- [Ethw Mainnet binance:latest](ethw_mainnet_binance:latest)
+- [Etc Mainnet binance:latest](etc_mainnet_binance:latest)
 
