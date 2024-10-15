@@ -1,0 +1,14 @@
+version: "2.0"
+services:
+  mining:
+    image: swanchain254/etc_mainnet_binance:latest
+    env:
+      - ACCOUNTNAME=rootabc1
+      - WORKNAME=work-001
+    expose:
+      - port: 5000
+        as: 5000
+deployment:
+  mining:
+    lagrange:
+      count: 1
