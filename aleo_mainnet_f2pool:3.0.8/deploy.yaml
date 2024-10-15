@@ -6,7 +6,7 @@ services:
     env:
       - MINER_URL=stratum+ssl://aleossl-asia.f2pool.com:4420
       - ACCOUNTNAME=rootabc
-	  - WORKNAME=work-001
+      - WORKNAME=work-001
     expose:
       - port: 5000
         as: 5000
