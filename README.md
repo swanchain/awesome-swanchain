@@ -171,7 +171,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [mongoDB](mongoDB)
 
 ### Mining
-- [Aleo Mainnet f2pool:3.0.8](aleo_mainnet_f2pool:3.0.8)
+- [Aleo Mainnet f2pool:3.0.8](./aleo_mainnet_f2pool:3.0.8)
 - [Iron Mainnet f2pool:latest](iron_mainnet_f2pool:latest)
 - [Rvn Mainnet f2pool:latest](rvn_mainnet_f2pool:latest)
 - [Zil Mainnet f2pool:latest](zil_mainnet_f2pool:latest)
