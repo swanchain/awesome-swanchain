@@ -1,0 +1,10 @@
+version: "2.0"
+services:
+  stable-diffusion:
+    image: nebulablock/stable-diffusion:LoRA
+    expose:
+      - port: 9999
+deployment:
+  stable-diffusion:
+    lagrange:
+      count: 1
