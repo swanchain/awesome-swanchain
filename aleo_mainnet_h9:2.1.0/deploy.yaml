@@ -1,0 +1,15 @@
+#h9pool
+version: "2.0"
+services:
+  mining:
+    image: swanchain254/aleo_mainnet_h9:2.1.0
+    env:
+      - APIKEY=aleo0000-ed29-889c-50e1-4bba650ac910
+      - WORKNAME=work-001
+    expose:
+      - port: 5000
+        as: 5000
+deployment:
+  mining:
+    lagrange:
+      count: 1
