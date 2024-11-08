@@ -2,7 +2,7 @@ Aleo is a new layer-1 blockchain platform for creating scalable and private appl
 
 Previous testnet (Aleo Testnet 3 or incentivized testnet) mining details can be found on the f2pool website under “ALEO TESTNET3” or “ALEO STAGING”. Mainnet mainnet can be viewed under “ALEO”.
 
-f2pool official website: https://www.f2pool.com
+Aleo Mining Tutorial in f2pool: https://f2pool.io/mining/guides/how-to-mine-aleo
 
 If you want to start mining, you should get the following information from [f2pool official website](https://www.f2pool.com), and the following environmens are **required**:
 ```
