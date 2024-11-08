@@ -2,7 +2,7 @@
 version: "2.0"
 services:
   mining:
-    image: swanchain254/aleo_mainnet_f2pool:3.0.8
+    image: swanchain254/aleo_mainnet_f2pool:3.0.12
     env:
       - MINER_URL=stratum+ssl://aleo-asia.f2pool.com:4420
       - ACCOUNTNAME=rootabc
