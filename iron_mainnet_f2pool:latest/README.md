@@ -6,6 +6,6 @@ The mining algorithm of Iron Fish is FishHash, supporting GPU mining. In this mi
 ```
       - MINER_URL=stratum+tcp://iron-na.f2pool.com:1500 
       - ACCOUNTNAME=rootabc
-      - WORKNAME=work-001
+      - WORKERNAME=work-001
 ```
 
