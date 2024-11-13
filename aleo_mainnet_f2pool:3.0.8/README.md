@@ -8,5 +8,5 @@ If you want to start mining, you should get the following information from [f2po
 ```
       - MINER_URL=stratum+ssl://aleo-asia.f2pool.com:4420
       - ACCOUNTNAME=<YOUR_ACCOUNT_NAME_IN_F2POOL>
-      - WORKNAME=<YOUR_WORKER_NAME>
+      - WORKERNAME=<YOUR_WORKER_NAME>
 ```
