@@ -3,6 +3,7 @@ services:
   mining:
     image: swanchain254/nexa_mainnet_f2pool:latest
     env:
+      - MINER_URL=nexa.f2pool.com:3400
       - ACCOUNTNAME=rootabc
       - WORKNAME=work-001
     expose:
