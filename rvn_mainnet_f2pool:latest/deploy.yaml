@@ -3,6 +3,7 @@ services:
   mining:
     image: swanchain254/rvn_mainnet_f2pool:latest
     env:
+      - MINER_URL=stratum+tcp://raven.f2pool.com:3636 
       - ACCOUNTNAME=rootabc
       - WORKNAME=work-001
     expose:
