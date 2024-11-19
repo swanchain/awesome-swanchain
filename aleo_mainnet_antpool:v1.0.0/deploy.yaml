@@ -4,8 +4,9 @@ services:
   mining:
     image: swanchain254/aleo_mainnet_antpool:v1.0.0
     env:
+      - MINER_URL=aleo.antpool.com:9038
       - ACCOUNTNAME=rootabc
-      - WORKNAME=work-001
+      - WORKERNAME=work-001
     expose:
       - port: 5000
         as: 5000
