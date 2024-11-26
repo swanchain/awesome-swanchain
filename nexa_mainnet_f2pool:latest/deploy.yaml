@@ -5,7 +5,7 @@ services:
     env:
       - MINER_URL=nexa.f2pool.com:3400
       - ACCOUNTNAME=rootabc
-      - WORKNAME=work-001
+      - WORKERNAME=work-001
     expose:
       - port: 5000
         as: 5000
