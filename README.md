@@ -182,3 +182,6 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Ethw Mainnet binance](./ethw_mainnet_binance:latest)
 - [Etc Mainnet binance](./etc_mainnet_binance:latest)
 
+### Inference
+ - [Stable Diffusion Webui-inference](stable-diffusion-webui)
+
