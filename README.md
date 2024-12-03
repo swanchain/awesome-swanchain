@@ -184,4 +184,5 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 ### Inference
  - [Stable Diffusion Webui-inference](stable-diffusion-webui)
+ - [MusicGen](./MusicGen)
 
