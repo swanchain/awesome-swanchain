@@ -7,7 +7,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 
 
 ## Table of Contents <!-- omit in toc -->
-- [AI - GPU](#ai---gpu)
+- [AI-GPU](#ai---gpu)
 - [Games](#games)
 - [Zero Knowledge Service](#Zero-Knowledge)
 - [Tools](#tools)
@@ -17,7 +17,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Database](#Database)
 
 
-### AI - GPU
+### AI-GPU
 - [Stable Diffusion Webui](stable-diffusion-webui)
 - [MusicGen](./MusicGen)
 - [Text to Speach](./Text-to-Speech)
@@ -78,7 +78,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Minesweeper](minesweeper)
 
 
-### Zero Knowledge Service
+### Zero Knowledge
 - [Fil-c2-service](Fil-c2-service)
 - [zokrates-demo](zokrates-demo)
 - [zk-email](zk-email)
