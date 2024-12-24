@@ -4,6 +4,9 @@ services:
     image: nebulablock/stable-diffusion:LoRA
     expose:
       - port: 9999
+    env:
+      - NCCL_P2P_DISABLE=1
+      - NCCL_SHM_DISABLE=1
 deployment:
   stable-diffusion:
     lagrange:
