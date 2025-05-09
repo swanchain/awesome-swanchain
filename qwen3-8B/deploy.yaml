@@ -1,0 +1,14 @@
+version: "2.0"
+services:
+  qwen:
+    image: swanchain254/vllm-custom-model-new:latest
+	env:
+	  - HUGGING_FACE_HUB_TOKEN=""
+	  - MODEL_NAME="Qwen/Qwen3-8B"
+    expose:
+      - port: 8000
+        as: 8000
+deployment:
+  qwen:
+    lagrange:
+      count: 1
