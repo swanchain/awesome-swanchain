@@ -1,0 +1,11 @@
+version: "2.0"
+services:
+  yolo:
+    image: swanchain254/yolo:v8
+    expose:
+      - port: 8800
+        as: 8800
+deployment:
+  yolo:
+    lagrange:
+      count: 1
