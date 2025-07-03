@@ -35,6 +35,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [AI-Fastchat-13B](./AI-FastChat-13B)
 - [AI-Fastapi-gpu](AI-FastApi-GPU)
 - [AI-Dalle-4k](AI-Dalle-4k)
+- [AI-Yolo](AI_Yolo)
 
 ### Games
 - [Tetris](./Tetris)
